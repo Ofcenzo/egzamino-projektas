@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "65367119816e05b8ac4445f0"
+  }
+},
+{
+  "_id": {
+    "$oid": "65367119816e05b8ac4445f1"
+  },
+  "const": "const",
+  "mongoose": "UserShema",
+  "=": "=",
+  "require('mongoose')": "new"
+},
+{
+  "_id": {
+    "$oid": "65367119816e05b8ac4445f2"
+  }
+},
+{
+  "_id": {
+    "$oid": "65367119816e05b8ac4445f3"
+  }
+},
+{
+  "_id": {
+    "$oid": "65367119816e05b8ac4445f4"
+  }
+},
+{
+  "_id": {
+    "$oid": "65367119816e05b8ac4445f5"
+  },
+  "const": "})"
+},
+{
+  "_id": {
+    "$oid": "65367119816e05b8ac4445f6"
+  },
+  "const": "const",
+  "mongoose": "UseraModel",
+  "=": "=",
+  "require('mongoose')": "mongoose.model(\"users\",UserShema)"
+},
+{
+  "_id": {
+    "$oid": "65367119816e05b8ac4445f7"
+  },
+  "const": "module.exports",
+  "mongoose": "=",
+  "=": "UserModel"
+}]
